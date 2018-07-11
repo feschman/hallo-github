@@ -1,0 +1,53 @@
+<Bundesliga>
+<team id="7" class="0" >
+<adresse><![CDATA[Fischhofgasse 14, 1100 Wien]]></adresse>
+<trainer><![CDATA[Nenad Bjelica]]></trainer>
+<name><![CDATA[austria wien]]></name>
+</team>
+
+<team id="5" class="0" >
+<adresse><![CDATA[Stadionstraße 2/3, 5071 Wals-Siezenheim]]></adresse>
+<trainer><![CDATA[Roger Schmidt]]></trainer>
+<name><![CDATA[red bull salzburg]]></name>
+</team>
+<team id="4" class="0" >
+<adresse><![CDATA[Keißlergasse 3, 1140 Wien]]></adresse>
+<trainer><![CDATA[Zoran Barisic]]></trainer>
+<name><![CDATA[rapid wien]]></name>
+</team>
+<team id="8" class="0" >
+<adresse><![CDATA[Triesterstraße 359/I, 8055 Graz]]></adresse>
+<trainer><![CDATA[Darko Milanic]]></trainer>
+<name><![CDATA[sturm graz]]></name>
+</team>
+<team id="159" class="0" >
+<adresse><![CDATA[Don Bosco Weg 1, 9400 Wolfsberg]]></adresse>
+<trainer><![CDATA[Slobodan Grubor]]></trainer>
+<name><![CDATA[pellets wac]]></name>
+</team>
+<team id="11" class="0" >
+<adresse><![CDATA[Volksfestplatz 2, 4910 Ried im Innkreis]]></adresse>
+<trainer><![CDATA[Michael Angerschmid]]></trainer>
+<name><![CDATA[josko ried]]></name>
+</team>
+<team id="17" class="0" >
+<adresse><![CDATA[Giltschwertgasse 81, 2700 Wiener Neustadt]]></adresse>
+<trainer><![CDATA[Heimo Pfeifenberger]]></trainer>
+<name><![CDATA[wiener neustadt]]></name>
+</team>
+<team id="2" class="0" >
+<adresse><![CDATA[Stadionstraße 1b, 6020 Innsbruck]]></adresse>
+<trainer><![CDATA[Roland Kirchler]]></trainer>
+<name><![CDATA[fc wacker innsbruck]]></name>
+</team>
+<team id="10" class="0" >
+<adresse><![CDATA[Johann Steinböckstrasse 5B, 2344 Maria Enzersdorf]]></adresse>
+<trainer><![CDATA[Anton Polster]]></trainer>
+<name><![CDATA[Admira Wacker]]></name>
+</team>
+<team id="178" class="0" >
+<adresse><![CDATA[Prötschhofstraße 26, 5082 - Grödig]]></adresse>
+<trainer><![CDATA[Adi Hütter]]></trainer>
+<name><![CDATA[sv scholz grödig]]></name>
+</team>
+</Bundesliga>
